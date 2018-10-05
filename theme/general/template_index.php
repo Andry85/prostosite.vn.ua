@@ -2,6 +2,13 @@
 <!doctype html>
 <html>
 <head>
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KMFHQX3');</script>
+            <!-- End Google Tag Manager -->
     <meta charset="utf-8">
 	<title><?php get_page_clean_title(); ?></title>
 	<meta name='yandex-verification' content='442c868422f9102e' />
@@ -28,15 +35,15 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/jquery.slicknav.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/html5lightbox.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-    <script src="<?php get_theme_url(); ?>/assets/js/gmaps.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/prettify.js"></script>
-    <script src="<?php get_theme_url(); ?>/assets/js/map-call.js"></script>
 	<script src="<?php get_theme_url(); ?>/assets/js/owl.carousel.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/owl.call.js"></script>
 </head>
 <body id="<?php get_page_slug(); ?>">
-    <a class="brif" href="/theme/general/uploads/brif_prostosait.com_.ua_.doc" title="">&nbsp;</a>
+    <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMFHQX3"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
     <div id="top" class="wrapper">
             <main class="main" role="main">
                 <?php get_page_content(); ?>

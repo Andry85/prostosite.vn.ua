@@ -35,17 +35,13 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/jquery.slicknav.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/html5lightbox.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-    <script src="<?php get_theme_url(); ?>/assets/js/gmaps.js"></script>
     <script src="<?php get_theme_url(); ?>/assets/js/prettify.js"></script>
-    <script src="<?php get_theme_url(); ?>/assets/js/map-call.js"></script>
 </head>
 <body id="<?php get_page_slug(); ?>">
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMFHQX3"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
-    <a class="brif" href="/theme/general/uploads/brif_prostosait.com_.ua_.doc" title="">&nbsp;</a>
     <div id="top" class="wrapper">
             <main class="main main-inner" role="main">
                  <div class="inner">
