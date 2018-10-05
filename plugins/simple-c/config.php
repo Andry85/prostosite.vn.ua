@@ -17,7 +17,7 @@
 $simple_c_settings = array(
 'enable' => true,
 'lang' => 'ru_RU',
-'default_email' => ' prostosaitcomua@gmail.com',
+'default_email' => 'prostosite.vn.ua@gmail.com',
 'default_params' => 'name!, email!, subject!, message!',
 'message_len' => 50,
 'checklist_name' => '',

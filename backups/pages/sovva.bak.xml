@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Sat, 09 Jan 2016 11:28:54 +0200</pubDate><title><![CDATA[sovva]]></title><url><![CDATA[sovva]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[sova]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+<item><pubDate>Sat, 09 Jan 2016 11:35:08 +0200</pubDate><title><![CDATA[sovva]]></title><url><![CDATA[sovva]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[sova]]></menu><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
                 &lt;div class=\&quot;text\&quot;&gt;
                     &lt;h1&gt;sovva.kiev.ua&lt;/h1&gt;
                     &lt;div class=\&quot;product-wrap\&quot;&gt;
@@ -19,7 +19,7 @@
                                 &lt;/li&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Информация:&lt;/b&gt;
-                                    &lt;span&gt; Изготовление мебели на заказ.&lt;/span&gt;
+                                    &lt;span&gt;Изготовление мебели на заказ&lt;/span&gt;
                                 &lt;/li&gt;
                                   &lt;li&gt;&lt;a rel=\&quot;nofollow\&quot; target=\&quot;_blank\&quot; href=\&quot;http://www.sovva.kiev.ua/\&quot; title=\&quot;Посмотреть проект\&quot;&gt;Посмотреть проект&lt;/a&gt; &lt;/li&gt;
                             &lt;/ul&gt;
@@ -29,4 +29,4 @@
                             &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[6]]></menuOrder></item>

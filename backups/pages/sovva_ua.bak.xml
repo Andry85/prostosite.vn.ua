@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Fri, 05 Oct 2018 21:09:06 +0300</pubDate><title><![CDATA[sovva_ua]]></title><url><![CDATA[sovva_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
-                &lt;div class=&quot;text&quot;&gt;
+<item><pubDate>Fri, 17 Jun 2016 10:20:54 +0300</pubDate><title><![CDATA[sovva_ua]]></title><url><![CDATA[sovva_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+                &lt;div class=\&quot;text\&quot;&gt;
                     &lt;h1&gt;sovva.kiev.ua&lt;/h1&gt;
-                    &lt;div class=&quot;product-wrap&quot;&gt;
-                            &lt;figure class=&quot;product-pic&quot;&gt;
-                                &lt;img src=&quot;/theme/general/uploads/sova-big.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                    &lt;div class=\&quot;product-wrap\&quot;&gt;
+                            &lt;figure class=\&quot;product-pic\&quot;&gt;
+                                &lt;img src=\&quot;/theme/general/uploads/sova-big.jpg\&quot; alt=\&quot;\&quot; title=\&quot;\&quot;&gt;
                             &lt;/figure&gt;
-                            &lt;div class=&quot;product-info&quot;&gt;
-                                &lt;div class=&quot;product-info-inner&quot;&gt;                                  
-                                &lt;ul class=&quot;portfolio-inner-list&quot;&gt;
+                            &lt;div class=\&quot;product-info\&quot;&gt;
+                                &lt;div class=\&quot;product-info-inner\&quot;&gt;                                  
+                                &lt;ul class=\&quot;portfolio-inner-list\&quot;&gt;
                                 &lt;li&gt;
                                     &lt;b&gt;Клієнт:&lt;/b&gt;
                                     &lt;span&gt; sovva&lt;/span&gt;
@@ -21,6 +21,7 @@
                                     &lt;b&gt;Інформація:&lt;/b&gt;
                                     &lt;span&gt;Виготовлення меблів на замовлення&lt;/span&gt;
                                 &lt;/li&gt;
+                                  &lt;li&gt;&lt;a rel=\&quot;nofollow\&quot; target=\&quot;_blank\&quot; href=\&quot;http://www.sovva.kiev.ua/\&quot; title=\&quot;Подивитися проект\&quot;&gt;Подивитися проект&lt;/a&gt; &lt;/li&gt;
                             &lt;/ul&gt;
                                     &lt;p&gt;Сайт створено для компанії яка займається виготовленням меблів. На сайті присутня фотогалерея, слайдер, google карта.&lt;/p&gt;
                                     &lt;p&gt;Сайт розроблений на CMS Wordpress.&lt;/p&gt;

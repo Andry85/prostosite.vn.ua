@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Fri, 24 Jun 2016 23:06:04 +0300</pubDate><title><![CDATA[Поддержка сайтов]]></title><url><![CDATA[poddergka]]></url><meta><![CDATA[поддержка сайта]]></meta><metad><![CDATA[Поддержка сайтов в Виннице для вашего бизнеса.]]></metad><menu><![CDATA[Поддержка сайтов]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[uslugi]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+<item><pubDate>Fri, 24 Jun 2016 23:06:05 +0300</pubDate><title><![CDATA[Поддержка сайтов]]></title><url><![CDATA[poddergka]]></url><meta><![CDATA[поддержка сайта]]></meta><metad><![CDATA[Поддержка сайтов в Виннице для вашего бизнеса.]]></metad><menu><![CDATA[Поддержка сайтов]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[uslugi]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
                 &lt;div class=\&quot;text\&quot;&gt;
                     &lt;h1&gt;Поддержка сайта&lt;/h1&gt;
                     &lt;div class=\&quot;product-wrap\&quot;&gt;
@@ -163,4 +163,4 @@
                             &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author></item>
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[1]]></menuOrder></item>

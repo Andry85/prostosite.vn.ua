@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Mon, 18 Jul 2016 10:49:28 +0300</pubDate><title><![CDATA[ВОПРОС/ОТВЕТ]]></title><url><![CDATA[faq]]></url><meta><![CDATA[ВОПРОС/ОТВЕТ]]></meta><metad><![CDATA[ВОПРОС/ОТВЕТ]]></metad><menu><![CDATA[ВОПРОС/ОТВЕТ]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
+<item><pubDate>Mon, 18 Jul 2016 10:58:54 +0300</pubDate><title><![CDATA[ВОПРОС/ОТВЕТ]]></title><url><![CDATA[faq]]></url><meta><![CDATA[ВОПРОС/ОТВЕТ]]></meta><metad><![CDATA[ВОПРОС/ОТВЕТ]]></metad><menu><![CDATA[ВОПРОС/ОТВЕТ]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
                 &lt;div class=\&quot;text\&quot;&gt;
                     &lt;h1&gt;ВОПРОС/ОТВЕТ&lt;/h1&gt;
                     &lt;ul class=\&quot;faq-list\&quot;&gt;
@@ -14,7 +14,7 @@
 	                    	&lt;ul&gt;
 	                    		&lt;li&gt;
 	                    			&lt;p&gt;
-	                    			Каждый сайт это индивидуальное решение под потребности клиентов и стоимость их не может быть абсолютно одинаковой. Стоимость сайта зависит от сложности дизайна и функциональности. Скачать бриф на разработку сайта можно перейдя по этой ссылке: &lt;a href=\&quot;\&quot; title=\&quot;\&quot;&gt;Скачать бриф&lt;/a&gt;.&lt;/p&gt;
+	                    			Каждый сайт это индивидуальное решение под потребности клиентов и стоимость их не может быть абсолютно одинаковой. Стоимость сайта зависит от сложности дизайна и функциональности. Скачать бриф на разработку сайта можно перейдя по этой ссылке: &lt;a href=\&quot;/theme/general/uploads/brif_prostosait.com_.ua_.doc\&quot; title=\&quot;\&quot;&gt;Скачать бриф&lt;/a&gt;.&lt;/p&gt;
 	                    		&lt;/li&gt;
 	                    	&lt;/ul&gt;
 	                    &lt;/li&gt;
@@ -67,4 +67,4 @@
 	                    &lt;/li&gt;
                     &lt;/ul&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[12]]></menuOrder></item>
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[15]]></menuOrder></item>

@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Fri, 17 Jun 2016 15:07:52 +0300</pubDate><title><![CDATA[Контакти]]></title><url><![CDATA[contacts]]></url><meta><![CDATA[Контакти простосайт]]></meta><metad><![CDATA[Контакти простосайт 068-328-85-41]]></metad><menu><![CDATA[Контакти]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=\&quot;inner\&quot;&gt;
-                &lt;div class=\&quot;text\&quot;&gt;
+<item><pubDate>Fri, 05 Oct 2018 19:54:59 +0300</pubDate><title><![CDATA[Контакти]]></title><url><![CDATA[contacts]]></url><meta><![CDATA[Контакти простосайт]]></meta><metad><![CDATA[Контакти простосайт 068-328-85-41]]></metad><menu><![CDATA[Контакти]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;inner&quot;&gt;
+                &lt;div class=&quot;text&quot;&gt;
                     &lt;h1&gt;Контакты&lt;/h1&gt;
-                    &lt;div class=\&quot;contacts\&quot;&gt;
-                        &lt;div class=\&quot;map-outer\&quot;&gt;
-                            &lt;div class=\&quot;map\&quot;&gt;
-                                &lt;div id=\&quot;map\&quot;&gt;&lt;/div&gt;
+                    &lt;div class=&quot;contacts&quot;&gt;
+                        &lt;div class=&quot;map-outer&quot;&gt;
+                            &lt;div class=&quot;map&quot;&gt;
+                                &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.302713862269!2d28.51888321587292!3d49.2327496822281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x472d5b218bdcae7b%3A0x8b512becf774c2fe!2z0YPQuy4g0JzQsNC60YHQuNC80LAg0KjQuNC80LrQviwgMTQsINCS0LjQvdC90LjRhtCwLCDQktC40L3QvdC40YbQutCw0Y8g0L7QsdC70LDRgdGC0YwsIDIxMDAw!5e0!3m2!1sru!2sua!4v1538758475551&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
-                        &lt;div class=\&quot;contact-inner\&quot;&gt;
-                            &lt;div class=\&quot;contact-info\&quot;&gt;
+                        &lt;div class=&quot;contact-inner&quot;&gt;
+                            &lt;div class=&quot;contact-info&quot;&gt;
 
-&lt;div class=\&quot;contactPic\&quot;&gt;
+&lt;div class=&quot;contactPic&quot;&gt;
 	&lt;figure&gt;
-		&lt;img src=\&quot;/theme/general/uploads/myfoto.png\&quot;&gt;
+		&lt;img src=&quot;/theme/general/uploads/myfoto.png&quot;&gt;
 	&lt;/figure&gt;
 	&lt;h3&gt;Андрей&lt;/h3&gt;
 	&lt;p&gt;Если у вас есть вопросы, задавайте их в форму обратной связи или по контактам которые находятся ниже.&lt;/p&gt;
 &lt;/div&gt;
 
                                 &lt;h2&gt;Контактная информация&lt;/h2&gt;
-                                &lt;ul class=\&quot;contact-list\&quot;&gt;
+                                &lt;ul class=&quot;contact-list&quot;&gt;
                                     
 
 
-&lt;li&gt;&lt;i class=\&quot;fa fa-map-marker\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;/i&gt;Адрес: Винница, улица 600-летия, 66-A.&lt;/li&gt;
-&lt;li&gt;&lt;i class=\&quot;fa fa-envelope\&quot;&gt;&lt;/i&gt;&lt;a href=\&quot;mailto:prostosaitcomua@gmail.com\&quot; rel=\&quot;nofollow\&quot; title=\&quot;admin@prostosait.com.ua\&quot;&gt;admin@prostosait.com.ua&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;i class=\&quot;fa fa-skype\&quot;&gt;&lt;/i&gt;&lt;a href=\&quot;skype:shapovala\&quot; rel=\&quot;nofollow\&quot; title=\&quot;\&quot;&gt;shapovala&lt;/a&gt;&lt;/li&gt;
-                                    &lt;li&gt;&lt;i class=\&quot;fa fa-phone-square\&quot;&gt;&lt;/i&gt;063-857-63-92&lt;/li&gt;
+&lt;li&gt;&lt;i class=&quot;fa fa-map-marker&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;Адрес: улица Максима Шимко 14.&lt;/li&gt;
+&lt;li&gt;&lt;i class=&quot;fa fa-envelope&quot;&gt;&lt;/i&gt;&lt;a href=&quot;mailto:prostosite.vn.ua@gmail.com&quot; rel=&quot;nofollow&quot; title=&quot;admin@prostosait.com.ua&quot;&gt;prostosite.vn.ua@gmail.com&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-skype&quot;&gt;&lt;/i&gt;&lt;a href=&quot;skype:shapovala&quot; rel=&quot;nofollow&quot; title=&quot;&quot;&gt;shapovala&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li&gt;&lt;i class=&quot;fa fa-phone-square&quot;&gt;&lt;/i&gt; (068)-328-85-41&lt;/li&gt;
                                 &lt;/ul&gt;
                             &lt;/div&gt;
-                            &lt;div class=\&quot;contact-form\&quot;&gt;
+                            &lt;div class=&quot;contact-form&quot;&gt;
                                 &lt;h2&gt;Контактная форма&lt;/h2&gt;
                                    (% simplec: formlang = ru %)
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[15]]></menuOrder></item>
+            &lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[admin]]></author><menuOrder><![CDATA[13]]></menuOrder></item>

@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Tue, 21 Jun 2016 08:13:24 +0300</pubDate><title><![CDATA[footertext_ua]]></title><url><![CDATA[footertext_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[ara]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>
+<item><pubDate>Fri, 05 Oct 2018 19:49:35 +0300</pubDate><title><![CDATA[footertext_ua]]></title><url><![CDATA[footertext_ua]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><content><![CDATA[&lt;div class=&quot;macromedia&quot;&gt;
+				&lt;div itemscope itemtype=&quot;http://schema.org/Organization&quot;&gt;
+				  &lt;span itemprop=&quot;name&quot;&gt;Prostosait.com.ua&lt;/span&gt;
+				Контактна інформація:
+				  &lt;div itemprop=&quot;address&quot; itemscope itemtype=&quot;http://schema.org/PostalAddress&quot;&gt;
+				    Адрес:
+				      &lt;span itemprop=&quot;streetAddress&quot;&gt;вулиця Максима Шимка 14&lt;/span&gt;
+				      &lt;span itemprop=&quot;postalCode&quot;&gt;21034&lt;/span&gt;
+				      &lt;span itemprop=&quot;addressLocality&quot;&gt;Вінниця, Україна&lt;/span&gt;
+				    ,
+				  &lt;/div&gt;
+				    Телефон:&lt;span itemprop=&quot;telephone&quot;&gt;(068)-328-85-41&lt;/span&gt;,
+				    E-mail: &lt;span itemprop=&quot;email&quot;&gt;prostosite.vn.ua@gmail.com&lt;/span&gt;
+				&lt;/div&gt;
+
+		&lt;/div&gt;]]></content><author><![CDATA[admin]]></author><parent><![CDATA[]]></parent><private><![CDATA[]]></private><menu><![CDATA[]]></menu></item>
